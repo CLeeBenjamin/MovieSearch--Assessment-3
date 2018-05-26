@@ -10,6 +10,7 @@ Parsing through the returned data in JSON format from network APIs
 Working with network API documentation.
 Intermediate UITableView concepts such as custom cells.
 
-<img src="http://media.giphy.com/media/dgsIv8wRjz4xCOwowb/giphy.gif" width="300" height="500" />
+
+
 
 
